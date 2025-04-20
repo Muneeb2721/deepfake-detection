@@ -63,13 +63,15 @@ Cell7: Train and Evaluate
 
 After training, the following plots are generated:
 
-- Confusion Matrix Plot
-- Loss vs Epochs
-- Accuracy vs Epochs
-- Loss vs Steps
-- Accuracy vs Steps
-- Loss vs Wall-Time
-- Accuracy vs Wall-Time
+![Confusion Matrix](output/confusion_matrix_plot.png)
+
+![Loss vs Epochs](output/loss_vs_epochs.png)
+
+![Accuracy vs Epochs](output/accuracy_vs_epochs.png)
+
+![Loss vs Steps](output/loss_vs_steps.png)
+
+![Accuracy vs Steps](output/accuracy_vs_steps.png)
 
 📁 File Structure
 🔹 classification_report.csv
