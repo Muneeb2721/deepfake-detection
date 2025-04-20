@@ -86,15 +86,25 @@ After training, the following plots are generated:
 
 
 📁 File Structure
+
 🔹 classification_report.csv
+
 🔹 confusion_matrix.csv
+
 🔹 confusion_matrix_plot.png
+
 🔹 training_args.json
+
 🔹 output_dir/
+
 🔹 ├── checkpoint-*/  
+
 🔹 └── config.json
+
 🔹 README.md
+
 🔹 *.ipynb
+
 ```
 
 📌 References
