@@ -73,6 +73,18 @@ After training, the following plots are generated:
 
 ![Accuracy vs Steps](output/accuracy_vs_steps.png)
 
+### 📊 Classification Report
+
+| Class         | Precision     | Recall        | F1-Score      | Support |
+|---------------|---------------|---------------|---------------|---------|
+| **Real**      | 0.989818047   | 0.983523414   | 0.986660691   | 38,054  |
+| **Fake**      | 0.983638641   | 0.989889706   | 0.986754273   | 38,080  |
+| **Accuracy**  | 0.986707647   | 0.986707647   | 0.986707647   | 0.9867  |
+| **Macro Avg** | 0.986728344   | 0.986706560   | 0.986707482   | 76,134  |
+| **Weighted Avg** | 0.986727289 | 0.986707647   | 0.986707498   | 76,134  |
+
+
+
 📁 File Structure
 🔹 classification_report.csv
 🔹 confusion_matrix.csv
