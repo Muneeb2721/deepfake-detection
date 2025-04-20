@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "Hemg/deepfake-and-real-images", "repoType": "dataset", "commitHash": "622591d0800678807fd227c1a967088e37ed8dfc"}, {"repoId": "microsoft/swin-base-patch4-window7-224", "repoType": "model", "commitHash": "20d6c26ef6455d36c0a78671d787c5da57513d4b"}]}
